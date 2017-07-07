@@ -1,7 +1,7 @@
 # Elm Boilerplate
 
 ### About:
-Use this to get started with an [Elm](http://elm-lang.org/) project. Builds with webpack. Recommend using alongside [elm-format](https://github.com/avh4/elm-format).
+Use this to get started with an [Elm](http://elm-lang.org/) project. Builds with webpack. Adapted from [elm-webpack-starter](https://github.com/elm-community/elm-webpack-starter). Recommend using alongside [elm-format](https://github.com/avh4/elm-format).
 
 
 ### Install:
